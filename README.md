@@ -2,9 +2,6 @@
 
 An interactive 3D AI Japanese language teacher built with Next.js, React Three Fiber, and Google Gemini AI.
 
-![Video Thumbnail](https://img.youtube.com/vi/_bi4Ol0QEL4/maxresdefault.jpg)
-
-[Video tutorial](https://youtu.be/_bi4Ol0QEL4)
 
 ## Features
 
