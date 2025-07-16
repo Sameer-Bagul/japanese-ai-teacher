@@ -24,7 +24,7 @@ This application has been updated to use cost-effective alternatives:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sameer-Bagul/japanese-ai-teacher.git
    cd japanese-ai-teacher
    ```
 
