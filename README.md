@@ -25,7 +25,7 @@ This application has been updated to use cost-effective alternatives:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ai-teacher
+   cd japanese-ai-teacher
    ```
 
 2. **Install dependencies**
